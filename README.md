@@ -38,7 +38,7 @@ Welcome to ChaixBlog, a stylish and efficient blog website built with React.js a
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/pankaj-coder47/chaiXblog.git
+https://github.com/Aryadev10/Blog-website.git
 ```
 
 2. Install dependencies:
